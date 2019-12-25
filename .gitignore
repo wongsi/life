@@ -1,0 +1,36 @@
+.metadata
+.DS_Store
+.svn
+target/
+Logs/
+.temp/
+_book/
+node_modules/
+
+package-lock.json
+yarn.lock
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.idea
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+docs/node_modules/.bin/acorn
