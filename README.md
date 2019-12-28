@@ -24,18 +24,24 @@ a step-by-step guide to building a meaningful future
 
 > 把每个问题都分解为很多部分，让解决它变得必要且可行。
 
-书中举例了多种，如`工作` `家庭` `健康` `朋友` `兴趣`；如`情感` `物质`  `智力` `精神`
-
-我按照一生二，二生三，三生万物的思维方式来分：
+书中按照列清单，画脑图的方式举例了多种人生解构，如`工作` `家庭` `健康` `朋友` `兴趣`；如`情感` `物质`  `智力` `精神`；下面按照东方思维的习惯，用一生二，二生三，三生万物的方式来分：
 
 ```mermaid
 graph LR
 one(all one's life)
-one -->A[man's body and soul]
-one -->B[effect/legacy]
+one -->|A|A[man's body and soul]
+one -->|B|B[effect/legacy]
 ```
 
 A：生而为人，自然而然的部分。The human body which God gave us!
 
 B：痕迹，遗留下的物质、精神。 legacy.
+
+C：造化万物，那遁去的一。
+
+哈哈，我这么分后面怎么搞。
+
+第二步：观点
+
+> 任何事物，其实都取决于我们怎么看待它。
 
